@@ -14,4 +14,4 @@ reading and writing code. This repository can serve as a meta layer post-mortem 
 you to 'sharpen the saw' when attacking your next project.
 
 TODO:
-  <PETER HURFORD INSERT links here to readability content and developer survey citation>? :)
+  ##### ~PETER HURFORD INSERT links here to readability content and developer survey citation? :)
