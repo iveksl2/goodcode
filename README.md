@@ -12,5 +12,4 @@ Finally, we believe by far the single best way to improve you coding ability is 
 reading and writing code. This repository can serve as a meta layer post-mortem to allow
 you to 'sharpen the saw' when attacking your next project.
 
-TODO:
-  -PETER HURFORD INSERT links here to readability content and developer survey citation?-  :)
+* ["How Do You Write Readable Code?: 11 Principles](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
