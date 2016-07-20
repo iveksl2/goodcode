@@ -14,3 +14,4 @@ you to 'sharpen the saw' when attacking your next project.
 
 * ["What is good code?: A scientific definition](http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition/)
 * ["How Do You Write Readable Code?: 11 Principles](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af)
+* ["Notes on 'Making Software'"](http://peterhurford.tumblr.com/post/143408649351/notes-on-making-software-what-really-works-and)
