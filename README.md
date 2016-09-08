@@ -6,12 +6,12 @@ Much of the content draws upon principles & philosophy within [Making Software](
 
 
 Few Words of Caution:
-No one principle is likely to be earth shattering in improving your code quality. However, 
-the accumulation of a large set of principles independently verified can in 
+No one principle is likely to be earth shattering in improving your code quality. However, similar to a trading strategy,
+the accumulation of a many principles independently verified can in 
 aggregate make a significant positive difference. 
 
 Finally, we believe by far the single best way to improve you coding ability is to be in the trenches 
-reading and writing code. This repository can serve as a meta layer post-mortem to allow
+reading and writing code. This repository can serve serve as a post-mortem to allow
 you to 'sharpen the saw' when attacking your next project.
 
 Each Principle will Provide Empirical Support (i) and Reference / Documentation (ii) on implementing the principle. 
