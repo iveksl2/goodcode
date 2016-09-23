@@ -14,7 +14,7 @@ Finally, we believe by far the single best way to improve you coding ability is 
 reading and writing code. This repository can serve serve as a post-mortem to allow
 you to 'sharpen the saw' when attacking your next project.
 
-Each Principle will Provide Empirical Support (i) and Reference / Documentation (ii) on implementing the principle. 
+Each Principle will Provide Empirical Support (i) and Reference / Documentation (ii) on learning & implementing the principle. 
 # Principles:
   
 - **Readability**
