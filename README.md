@@ -7,7 +7,7 @@ Much of the content draws upon principles & philosophy within [Making Software](
 
 Few Words of Caution:
 No one principle is likely to be earth shattering in improving your code quality. However, similar to a trading strategy,
-the accumulation of a many principles independently verified can in 
+the accumulation of many small principles independently verified can in 
 aggregate make a significant positive difference. 
 
 Finally, we believe by far the single best way to improve you coding ability is to be in the trenches 
