@@ -28,13 +28,16 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
      iii. Design Patterns allow for better / more distributed communication among the team when members share pattern knowledge. [4]
      *Note*: Per Vokac et al. "design patterns are not universally good or bad, but must be used in a way that
                                matches the problem and the people"
-  2. Design patterns universally aren't magic pill, the factory pattern within an API was shown to degrade quality.[5] Composite & Visitor 
+     Design patterns universally aren't magic pill, the factory pattern within an API was shown to degrade quality.[5] Visitor pattern has also been found hard to comprehend for most. [3]
+  2. The following are implemntations of design patterns found to improve solution quality or maintenance speed: 
+       * [Decorator](https://github.com/faif/python-patterns/blob/master/decorator.py)
+       * [Observer](https://github.com/faif/python-patterns/blob/master/observer.py) 
 
 
 Study References:
   *Design Patterns*:
     1. [Prechelt et al. 2002: Two Controlled Experiemnts Assessing the Usefulness of Design Pattern Documentation in Program Maintenance](http://dl.acm.org/citation.cfm?id=570532)  
     2. [Lutz Prechlet & Barbara Unger et al. 2001: A Controlled Experiment in Maintenance Comparing Design Patterns to Simpler Solutions](http://www.ptidej.net/courses/log6306/fall12/readingnotes/2/Prechelt%20-%20A%20controlled%20experiment%20in%20maintenance.%20comparing%20design%20patterns%20to%20simpler%20solutio.pdf)
-    2. [Vokac et al. 2004: A Controlled Experiment Comparing the Maintainability of Programs Designed with and Wwihout Design Patterns](https://www.nr.no/~aldrin/artikler/DesignPatternsEmpiricalSoftwareEngineering.pdf)
+    3. [Vokac et al. 2004: A Controlled Experiment Comparing the Maintainability of Programs Designed with and Wwihout Design Patterns](https://www.nr.no/~aldrin/artikler/DesignPatternsEmpiricalSoftwareEngineering.pdf)
     4. [Unger et al. 2000: Do Design Patterns Improve Communication? An Experiment with Pair Design. Workshop on Empirical Studies of Software Maintenance](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6BCE30334106F3C5CD15BC8E033EE7DF?doi=10.1.1.258.7373&rep=rep1&type=pdf)
     5. [Ellis et al. 2007: The Factory Pattern API Deisgn: A Usability Evaluation](https://www.cs.cmu.edu/~NatProg/papers/Ellis2007FactoryUsability.pdf)
