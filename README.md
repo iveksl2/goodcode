@@ -23,7 +23,7 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
 
 
 - **Design Patterns**
- 1. i.  Some edvidence exists merely documenting presence of design patterns may reduce implementation time & improve program specification correctness.[1]   
+ 1. i.  Some evidence exists merely documenting presence of design patterns may reduce implementation time & improve program specification correctness.[1]   
      ii. Weak but significant evidence exists certain patterns reduce errors in pattern relavant maintenance tasks[2][3]     
      iii. Design Patterns allow for better / more distributed communication among the team when members share pattern knowledge. [4]     
      *Note*: Per Vokac et al. "design patterns are not universally good or bad, but must be used in a way that
