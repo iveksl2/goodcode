@@ -21,14 +21,13 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
   1. ["What is good code?: A scientific definition](http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition/) 
   2. ["How Do You Write Readable Code?: 11 Principles](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af) 
 
-
 - **Design Patterns**
  1. i.  Some evidence exists merely documenting presence of design patterns may reduce implementation time & improve program specification correctness.[1]   
      ii. Weak but significant evidence exists certain patterns reduce errors in pattern relavant maintenance tasks[2][3]     
      iii. Design Patterns allow for better / more distributed communication among the team when members share pattern knowledge. [4]     
      *Note*: Per Vokac et al. "design patterns are not universally good or bad, but must be used in a way that
                                matches the problem and the people". The factory pattern within an API was shown to degrade quality.[5] Visitor pattern has also been found hard to comprehend. [3]
- 2. The following are implementations of design patterns found to improve solution quality or maintenance speed: 
+ 2. The following are implementations of design patterns found to improve solution quality or maintenance: 
        * [Decorator](https://github.com/faif/python-patterns/blob/master/decorator.py)
        * [Observer](https://github.com/faif/python-patterns/blob/master/observer.py) 
 
