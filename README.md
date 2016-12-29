@@ -31,6 +31,13 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
        * [Decorator](https://github.com/faif/python-patterns/blob/master/decorator.py)
        * [Observer](https://github.com/faif/python-patterns/blob/master/observer.py) 
 
+- **Pair Programming**
+    * In an academic setting, a pair programming study was conudected on students at the University of Utah within a 15 week course. 
+      Those within pair programming groups were found to work to work on average of 15% more programming hours. 
+      Software quality measure in automated test cases passing also improved. (~14% on average). [6]
+      This tradeoff is often worth it for an organization in the long run. There are also subjective human benefits such as
+      improved collaboration, morale, learning, etc. 
+
 Study References:
    *Design Patterns*:
    1. [Prechelt et al. 2002: Two Controlled Experiemnts Assessing the Usefulness of Design Pattern Documentation in Program Maintenance](http://dl.acm.org/citation.cfm?id=570532)  
@@ -38,3 +45,5 @@ Study References:
    3. [Vokac et al. 2004: A Controlled Experiment Comparing the Maintainability of Programs Designed with and Wwihout Design Patterns](https://www.nr.no/~aldrin/artikler/DesignPatternsEmpiricalSoftwareEngineering.pdf)
    4. [Unger et al. 2000: Do Design Patterns Improve Communication? An Experiment with Pair Design. Workshop on Empirical Studies of Software Maintenance](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6BCE30334106F3C5CD15BC8E033EE7DF?doi=10.1.1.258.7373&rep=rep1&type=pdf)
    5. [Ellis et al. 2007: The Factory Pattern API Deisgn: A Usability Evaluation](https://www.cs.cmu.edu/~NatProg/papers/Ellis2007FactoryUsability.pdf)
+   *Pair Programming*:
+   6. [Williams et al. 2000: Strengthening the Case for Pair Programming](http://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF) 
