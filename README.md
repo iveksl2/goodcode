@@ -48,5 +48,5 @@ Study References:
    5. [Ellis et al. 2007: The Factory Pattern API Deisgn: A Usability Evaluation](https://www.cs.cmu.edu/~NatProg/papers/Ellis2007FactoryUsability.pdf)
    
 *Pair Programming*:
- 
- 6 [Williams et al. 2000: Strengthening the Case for Pair Programming](http://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF) 
+   
+   6\. [Williams et al. 2000: Strengthening the Case for Pair Programming](http://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF) 
