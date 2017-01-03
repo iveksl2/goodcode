@@ -39,11 +39,14 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
       improved collaboration, morale, learning, etc. 
 
 Study References:
-   *Design Patterns*:
+  
+  *Design Patterns*:
    1. [Prechelt et al. 2002: Two Controlled Experiemnts Assessing the Usefulness of Design Pattern Documentation in Program Maintenance](http://dl.acm.org/citation.cfm?id=570532)  
    2. [Lutz Prechlet & Barbara Unger et al. 2001: A Controlled Experiment in Maintenance Comparing Design Patterns to Simpler Solutions](http://www.ptidej.net/courses/log6306/fall12/readingnotes/2/Prechelt%20-%20A%20controlled%20experiment%20in%20maintenance.%20comparing%20design%20patterns%20to%20simpler%20solutio.pdf)
    3. [Vokac et al. 2004: A Controlled Experiment Comparing the Maintainability of Programs Designed with and Wwihout Design Patterns](https://www.nr.no/~aldrin/artikler/DesignPatternsEmpiricalSoftwareEngineering.pdf)
    4. [Unger et al. 2000: Do Design Patterns Improve Communication? An Experiment with Pair Design. Workshop on Empirical Studies of Software Maintenance](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6BCE30334106F3C5CD15BC8E033EE7DF?doi=10.1.1.258.7373&rep=rep1&type=pdf)
    5. [Ellis et al. 2007: The Factory Pattern API Deisgn: A Usability Evaluation](https://www.cs.cmu.edu/~NatProg/papers/Ellis2007FactoryUsability.pdf)
-   *Pair Programming*:
-   6. [Williams et al. 2000: Strengthening the Case for Pair Programming](http://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF) 
+   
+*Pair Programming*:
+ 
+ 6 [Williams et al. 2000: Strengthening the Case for Pair Programming](http://collaboration.csc.ncsu.edu/laurie/Papers/ieeeSoftware.PDF) 
