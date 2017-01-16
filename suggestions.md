@@ -15,7 +15,7 @@ Code Reviews:
    * [reviewable.io](https://reviewable.io/)
 
 Test Coverage:
-   * [coverage.py](https://www.pylint.org://coverage.readthedocs.io/en/coverage-4.3.1/)
+   * [coverage.py](https://coverage.readthedocs.io/en/coverage-4.3.1/)
 
 Acknowledgements:
    *  [Another pair of eyes: Reviewing code well - Adam Dangoor](https://stuffadammakes.com/2016/07/21/another-pair-of-eyes-reviewing-code-well/)
