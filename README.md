@@ -32,9 +32,9 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
        * [Observer](https://github.com/faif/python-patterns/blob/master/observer.py) 
 
 - **Pair Programming**
-    * In an academic setting, a pair programming study was conudected on students at the University of Utah within a 15 week course. 
-      Those within pair programming groups were found to work to work on average of 15% more programming hours. 
-      Software quality measure in automated test cases passing also improved. (~14% on average). [6]
+    * In an academic setting, a pair programming study was conducted on students at the University of Utah within a 15 week course. 
+      Those within a pair programming groups were found to work to work on average of 15% more programming hours. 
+      Software quality metrics such as automated test cases passing  improved ~14% on average. [6]
       This tradeoff is often worth it for an organization in the long run. There are also subjective human benefits such as
       improved collaboration, morale, learning, etc. 
 
