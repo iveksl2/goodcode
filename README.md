@@ -19,7 +19,7 @@ Each Principle will Provide Empirical Support (i) and Reference / Documentation 
   
 - **Readability**
   1. ["What is good code?: A scientific definition](http://engineering.intenthq.com/2015/03/what-is-good-code-a-scientific-definition/) 
-  2. ["How Do You Write Readable Code?: 11 Principles](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af) 
+  2. ["How Do You Write Readable Code?: 13 Principles](https://gist.github.com/peterhurford/3ad9f48071bd2665a8af) 
 
 - **Design Patterns**
  1. i.  Some evidence exists merely documenting presence of design patterns may reduce implementation time & improve program specification correctness.[1]   
